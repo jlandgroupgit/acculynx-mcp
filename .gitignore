@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+session-state/
+.browser-state/
+playwright/.auth/
+storage-state*.json
+cookies*.json
+exports/
+live-data/
+*.xlsx
+*.csv
+*.log
+.DS_Store
